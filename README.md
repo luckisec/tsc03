@@ -1,2 +1,2 @@
 # tsc03
-Repositório de documentação da Turma de de Técnico em Segurança
+Repositório de documentação da Turma de Técnico em Segurança
